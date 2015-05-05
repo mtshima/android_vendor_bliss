@@ -203,8 +203,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     KernelAdiutor \
     OmniSwitch \
-    BlissPapers \
-    BlissOTA
+    BlissPapers
 
 # Extra tools in Bliss
 PRODUCT_PACKAGES += \
